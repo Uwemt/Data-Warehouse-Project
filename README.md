@@ -1,7 +1,9 @@
 # Data-Warehouse-Project
 
 The **Data Warehouse Project** repository.
-Bu#ilding data warehouse with SQL Server, including ETL Processes, data modeling, and Analytics. This project shows a comprehensive data warehousing solution, from building a data warehouse to generating actionable insights.
+Building data warehouse with SQL Server, including ETL Processes, data modeling, and Analytics. This project shows a comprehensive data warehousing solution, from building a data warehouse to generating actionable insights.
+
+---
 
 ## Project Requirements
 
@@ -37,4 +39,4 @@ This project is licensed under the (MIT License).
 
 ## About me
 
-My name is **Uwem Tom**. I am a data scientist with passion for solving health problems with data.
+My name is **Uwem Tom**. I am a data scientist with passion for solving healthcare problems with data.
